@@ -9,11 +9,14 @@
   "plugins": [
     {
       "name": "conductor",
+      "description": "Conductor is a Claude Code plugin that allows you to specify, plan, and implement software features.",
+      "category": "development",
       "source": {
-        "source": "git-subdir",
+        "source": "url",
         "url": "https://github.com/Logitropic/conductor.git",
         "path": "plugins/conductor"
       }
+      "homepage": "https://github.com/Logitropic/conductor"
     }
   ]
 }
