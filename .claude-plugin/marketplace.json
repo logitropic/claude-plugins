@@ -16,7 +16,7 @@
         "email": "support@anthropic.com"
       },
       "source": {
-        "source": "url",
+        "source": "git-subdir",
         "url": "https://github.com/Logitropic/conductor.git",
         "path": "plugins/conductor"
       },
