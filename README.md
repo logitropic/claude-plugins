@@ -1,6 +1,6 @@
 # Logitropic Plugins Directory
 
-**Repository:** [Logitropic/conductor](https://github.com/Logitropic/conductor)
+**Repository:** [logitropic/conductor](https://github.com/logitropic/conductor)
 
 A curated directory of plugins for Claude Code.
 
@@ -19,13 +19,19 @@ A curated directory of plugins for Claude Code.
 
 Conductor is a Claude Code plugin that allows you to specify, plan, and implement software features.
 
-- **Source:** [Logitropic/conductor](https://github.com/Logitropic/conductor)
+- **Source:** [logitropic/conductor](https://github.com/logitropic/conductor)
 - **Path:** `plugins/conductor`
-- **Homepage:** [https://github.com/Logitropic/conductor](https://github.com/Logitropic/conductor)
+- **Homepage:** [https://github.com/logitropic/conductor](https://github.com/logitropic/conductor)
 
 ## Installation
 
-Plugins can be installed directly from this marketplace via Claude Code's plugin system.
+First, add this marketplace to Claude Code:
+
+```
+claude plugin marketplace add https://github.com/logitropic/claude-plugins.git
+```
+
+Plugins can then be installed directly from this marketplace via Claude Code's plugin system.
 
 To install, run:
 ```
