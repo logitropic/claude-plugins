@@ -3,7 +3,7 @@
   "name": "logitropic-plugins",
   "description": "Directory of popular Claude Code extensions including development tools, productivity plugins, and MCP integrations",
   "owner": {
-    "name": "Logitropic",
+    "name": "logitropic",
     "email": "support@logitropic.com"
   },
   "plugins": [
@@ -11,11 +11,7 @@
       "name": "conductor",
       "description": "Conductor is a Claude Code plugin that allows you to specify, plan, and implement software features.",
       "category": "development",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/logitropic/conductor.git",
-        "path": "plugins/conductor"
-      },
+      "source": "./plugins/conductor",
       "homepage": "https://github.com/logitropic/conductor"
     }
   ]
