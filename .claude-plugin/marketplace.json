@@ -10,13 +10,20 @@
     {
       "name": "conductor",
       "description": "Conductor is a Claude Code plugin that allows you to specify, plan, and implement software features.",
-      "category": "development",
+      "category": "Coding",
       "source": "./plugins/conductor",
       "homepage": "https://github.com/logitropic/conductor"
     },
     {
       "name": "build-ios-apps",
       "description": "Build iOS apps with workflows for SwiftUI UI work, refactors, performance audits, and simulator debugging.",
+      "category": "Coding",
+      "source": "./plugins/build-ios-apps",
+      "homepage": "https://openai.com/"
+    },
+    {
+      "name": "game-studio",
+      "description": "Design, prototype, and ship browser games with guided 2D and 3D workflows, asset pipelines, and playtesting support.",
       "category": "Coding",
       "source": "./plugins/build-ios-apps",
       "homepage": "https://openai.com/"
