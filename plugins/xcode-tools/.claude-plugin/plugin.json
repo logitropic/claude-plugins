@@ -1,0 +1,8 @@
+{
+  "name": "xcode-tools",
+  "description": "Let agents access your project and Xcode capabilities using the Model Context Protocol.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Apple"
+  }
+}

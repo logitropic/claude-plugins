@@ -34,6 +34,20 @@
       "category": "Coding",
       "source": "./plugins/build-ios-apps",
       "homepage": "https://openai.com/"
+    },
+    {
+      "name": "github",
+      "description": "Inspect repositories, triage pull requests and issues, debug CI, and publish changes through a hybrid GitHub connector and CLI workflow.",
+      "category": "Coding",
+      "source": "./plugins/github",
+      "homepage": "https://openai.com/"
+    },
+    {
+      "name": "xcode-tools",
+      "description": "Let agents access your project and Xcode capabilities using the Model Context Protocol.",
+      "category": "Coding",
+      "source": "./plugins/xcode-tools",
+      "homepage": "https://developer.apple.com/xcode"
     }
   ]
 }

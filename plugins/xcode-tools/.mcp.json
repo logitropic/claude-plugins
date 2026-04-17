@@ -1,0 +1,8 @@
+{
+  "xcode-tools": {
+    "type": "stdio",
+    "command": "xcrun",
+    "args": ["mcpbridge"],
+    "env": {}
+  }
+}
