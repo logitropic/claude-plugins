@@ -52,21 +52,21 @@
     {
       "name": "documents",
       "description": "Create and edit document artifacts in Claude.",
-      "category": "Coding",
+      "category": "Productivity",
       "source": "./plugins/documents",
       "homepage": "https://openai.com/"
     },
     {
       "name": "presentations",
       "description": "Create, edit, render, verify, and export presentation slide decks. Use when Claude needs to build or modify a deck, slidedeck, presentation deck, slide deck, slides, PowerPoint, PPT, PPTX, .ppt, or .pptx file.",
-      "category": "Coding",
+      "category": "Productivity",
       "source": "./plugins/presentations",
       "homepage": "https://openai.com/"
     },
     {
       "name": "spreadsheets",
       "description": "Create, edit, analyze, visualize, render, and export spreadsheets in Claude.",
-      "category": "Coding",
+      "category": "Productivity",
       "source": "./plugins/spreadsheets",
       "homepage": "https://openai.com/"
     }
