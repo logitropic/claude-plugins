@@ -1,0 +1,24 @@
+{
+  "name": "spreadsheets",
+  "version": "26.506.11943",
+  "description": "Create, edit, analyze, visualize, render, and export spreadsheets in Claude.",
+  "author": {
+    "name": "OpenAI",
+    "email": "support@openai.com",
+    "url": "https://openai.com/"
+  },
+  "homepage": "https://openai.com/",
+  "repository": "https://github.com/openai/openai",
+  "license": "MIT",
+  "keywords": [
+    "sheet",
+    "sheets",
+    "spreadsheet",
+    "spreadsheets",
+    "excel",
+    "csv",
+    "xlsx",
+    "xls",
+    "workbook"
+  ]
+}
