@@ -69,6 +69,13 @@
       "category": "Productivity",
       "source": "./plugins/spreadsheets",
       "homepage": "https://openai.com/"
+    },
+    {
+      "name": "codex-security",
+      "description": "Codex Security workflows for security scans, analysis, and investigation.",
+      "category": "Coding",
+      "source": "./plugins/codex-security",
+      "homepage": "https://openai.com/"
     }
   ]
 }
